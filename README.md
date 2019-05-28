@@ -9,11 +9,11 @@ Write a scraper in either python or NodeJS to collect data from Wikipedia about 
 
 ### Instructions
 
-Download .ipynb file and upload it to Google Collab and run it. Google Collab Tutorial(Link: https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c )
+Download .ipynb file and upload it to Google Collab and run it or run it using Jupyter Notebook. Google Collab Tutorial(Link: https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c )
 
 #### Prerequisites
 
-In this project, we are using Jupyter Notebook with python3 but any .ipynb editors(like google Collab) with python 3 works. 
+In this project, we are using Jupyter Notebook with python3 but any .ipynb editors(like google Collab) with python 3 works.
 
 ### Solution
 
